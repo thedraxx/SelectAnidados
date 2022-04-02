@@ -10,7 +10,7 @@
 ## ⚛️ Versión de React
 
 ```
-react: 17.0.2
+react: 18
 ```
 
 ## 🔮 Futuro del Proyecto
